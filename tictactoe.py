@@ -7,11 +7,9 @@ Exercises
 3. How would you detect when someone has won?
 4. How could you create a computer player?
 """
-
 from turtle import *
 
 from freegames import line
-
 
 def grid():
     """Draw tic-tac-toe grid."""
